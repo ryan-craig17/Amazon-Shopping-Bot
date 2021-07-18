@@ -11,7 +11,7 @@
 3. Google Chrome Browser
 
 ## Function
-This script is set to run every 5 minutes, but you can easily set it to every minute.
-Be sure to enter your personal email and password, as well as the url for the product you are wanting. 
-Another way to potentially improve this script is to use it for additional internet browsers, since this uses Chrome Driver.
+This script is set to run every 5 minutes, but you can easily set it to every minute or whatever schedule you are wanting.
+Be sure to enter your personal email and password, as well as the url for the product you are wanting. You will also want your default shipping address already entered on you account.
+Only works for Google Chrome.
 Please use this for good :)
