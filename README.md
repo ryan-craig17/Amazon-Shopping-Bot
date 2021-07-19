@@ -9,6 +9,7 @@
 1. Amazon Email and Password
 2. One Shipping Address linked to Amazon account
 3. Google Chrome Browser
+4. Chrome Driver
 
 ## Function
 This script is set to run every 5 minutes, but you can easily set it to every minute or whatever schedule you are wanting.
